@@ -8,32 +8,25 @@ This repository contains R code to analyze the stock prices of AAPL (Apple Inc.)
 
 ### Prerequisites
 
-Make sure you have the following libraries installed:
+I have loaded/installed the following libraries:
 
 - quantmod
 - xts
 - PerformanceAnalytics
 - rugarch
 
-You can install these libraries using the `install.packages()` function in R.
 
-### Data Retrieval and Visualization
+### Data Retrieval and Visualization - AAPL stock prices from 2008-01-01 to 2023-12-31
 
 To start the analysis, we retrieve the historical stock prices of AAPL from January 1, 2008, to December 31, 2023, using the `getSymbols()` function. Then, we plot the December 2023 returns and all returns using the `chartSeries()` function.
 
-# Load necessary libraries
-
-# Retrieve AAPL stock prices from 2008-01-01 to 2023-12-31
-
-# Plot AAPL's December 2023 prices and all prices
+# Plot AAPL's December 2023 prices and historical prices
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot.png)
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot01.png)
 
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot03.png)
 
-# Calculate daily returns
-
-# Plot daily returns
+# Calculate daily returns and Ploting daily returns
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot04.png)
 
 # Create a histogram with a density curve
@@ -51,7 +44,9 @@ To start the analysis, we retrieve the historical stock prices of AAPL from Janu
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot08.png)
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot09.png)
 
-# Fitting models with different parameters
+# Fitting models with different parameters 
+
+## **** the first model resulted in specifications that could be improved. Hence fitting other alternatives.
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot10.png)
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot11.png)
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot12.png)
