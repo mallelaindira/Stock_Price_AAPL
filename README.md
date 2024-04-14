@@ -1,4 +1,6 @@
 # Stock_Price_AAPL
+
+
 AAPL Stock Price Prediction using GARCH Models
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot.png)
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot01.png)
