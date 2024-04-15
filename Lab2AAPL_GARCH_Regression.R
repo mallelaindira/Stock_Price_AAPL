@@ -127,7 +127,7 @@ f2023 <-ugarchforecast(data=return["/2023-12"],
                        fitORspec = sfinal,
                        n.ahead=252)
 
-par(mfrow= c(1,1))
+par(mfrow= c(2,1))
 plot(sigma(f2008))
 plot(sigma(f2023))
 
