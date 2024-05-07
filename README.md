@@ -26,21 +26,21 @@ To start the analysis, we retrieve the historical stock prices of AAPL from Janu
 
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot03.png)
 
-# Calculate daily returns and Ploting daily returns
+# Calculating daily returns and Ploting daily returns
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot04.png)
 
-# Create a histogram with a density curve
+# Creating a histogram with a density curve
 
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot02.png)
 
-# Plot rolling performance chart of monthly volatility
+# Plotting rolling performance chart of monthly volatility
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot05.png)
 
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot06.png)
-# Specify and fit GARCH models
+# Specifying and fitting GARCH models
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot07.png)
 
-# Forecast volatility
+# Forecasting volatility
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot08.png)
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot09.png)
 
@@ -51,16 +51,16 @@ To start the analysis, we retrieve the historical stock prices of AAPL from Janu
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot11.png)
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot12.png)
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot13.png)
-# Perform simulations and Plotting simulated stock prices
+# Performing simulations and Plotting simulated stock prices
 
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot14.png)
 
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot15.png)
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot16.png)
 
-# Retrieve AAPL stock prices from 2024-01-01 to 2024-03-31
+# Retrieving AAPL stock prices from 2024-01-01 to 2024-03-31
 
-# Plot closing prices
+# Plotting closing prices
 
 
 ![Image Title](https://github.com/mallelaindira/Stock_Price_AAPL/raw/main/Rplot17.png)
